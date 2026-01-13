@@ -236,7 +236,7 @@ const countFrequencies = function(arr) {
     return frequencyMap;
 };
 
-// --- Execution ---
+// Execution 
 const numbersList = [1, 2, 2, 3, 1, 5, 5, 5];
 
 console.log("Input:", numbersList);
