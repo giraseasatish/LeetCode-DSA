@@ -237,11 +237,11 @@ const countFrequencies = function(arr) {
 };
 
 // Execution 
-const numbersList = [1, 2, 2, 3, 1, 5, 5];
+const numbersList = [1, 2, 2, 3, 1, 5, 5, 5];
 
 console.log("Input:", numbersList);
 const result = countFrequencies(numbersList);
 console.log("Frequency Map:", result);
-// Expected Output: { '1': 2, '2': 2, '3': 1, '5': 2 }
+// Expected Output: { '1': 2, '2': 2, '3': 1, '5': 3 }
 
 
